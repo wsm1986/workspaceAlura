@@ -1,0 +1,5 @@
+package br.com.alura.maven.lojaweb;
+
+public class ContatoServlet {
+
+}
